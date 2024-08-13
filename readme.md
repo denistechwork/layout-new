@@ -1,6 +1,6 @@
 # Layout-new
 
-Simple layout according to the task. We have some buttons and also menu both in desktop and for mobile devices.
+Simple layout with some integrations. We have some buttons and also menu both for desktop and mobile devices.
 It has one page but I included some functionality using RestAPI service https://dummyjson.com/docs/auth#auth-login for authentication.
 You can log using username and password of different dummy users https://dummyjson.com/users .
 Initial form from the task is using email and password, but this one provides logging in only with username-password pair, that is why I changed it.
