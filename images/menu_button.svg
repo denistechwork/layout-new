@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="110mm"
+   viewBox="0 0 110 110"
+   version="1.1"
+   id="svg47794"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs47791" />
+  <g
+     id="layer1">
+    <path
+       style="fill:none;stroke:#66837e;stroke-width:7;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11.923392,54.596725 c 0,-13.232282 0,-26.394908 7.136534,-35.234881 7.136534,-8.839972 21.408596,-13.3568129 35.681599,-13.3567382 14.273002,7.47e-5 28.545308,4.5169922 35.681484,13.3569812 7.136176,8.83999 7.136176,22.002356 7.136176,35.234777 0,13.232421 0,26.534076 -6.847068,35.416147 -6.847068,8.88207 -20.540458,13.344179 -34.813347,13.344259 -14.272888,7e-5 -29.123858,-4.462155 -36.549618,-13.344383 -7.42576,-8.882227 -7.42576,-22.183881 -7.42576,-35.416162 z"
+       id="path48215" />
+    <ellipse
+       style="fill:none;stroke:#66837e;stroke-width:5.86329;stroke-dasharray:none;stroke-opacity:1"
+       id="path52383"
+       cx="55.422127"
+       cy="30.505106"
+       rx="7.0683556"
+       ry="7.0683551" />
+    <ellipse
+       style="fill:none;stroke:#66837e;stroke-width:5.86329;stroke-dasharray:none;stroke-opacity:1"
+       id="path52383-0"
+       cx="55.422127"
+       cy="54.505104"
+       rx="7.0683556"
+       ry="7.0683551" />
+    <ellipse
+       style="fill:none;stroke:#66837e;stroke-width:5.86329;stroke-dasharray:none;stroke-opacity:1"
+       id="path52383-0-7"
+       cx="55.422127"
+       cy="78.505104"
+       rx="7.0683556"
+       ry="7.0683551" />
+  </g>
+</svg>
