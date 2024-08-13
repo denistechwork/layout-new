@@ -27,7 +27,7 @@ async function loginUser(e) {
       body: JSON.stringify({
         username: userName,
         password: passWord,
-        expiresInMins: 1,
+        expiresInMins: 15,
       }),
     });
     const login = await loginRes.json();
@@ -71,7 +71,7 @@ async function refreshUser() {
     },
     body: JSON.stringify({
       refreshToken: localStorage.getItem('refreshToken'),
-      expiresInMins: 5,
+      expiresInMins: 15,
     }),
   });
   const refToken = await resRefToken.json();
